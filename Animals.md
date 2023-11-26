@@ -1,0 +1,24 @@
+# Animals
+
+-   Animal
+    -   Pet
+        -   Dog
+            -   constructor: name, furColor, legsCount, canFly, canSwim, canTalk
+            -   methods: introduce, sit, stand, voice
+        -   Cat
+            -   constructor: name, furColor, legsCount, canFly, canSwim, canTalk
+            -   methods: introduce, voice
+    -   Bird
+        -   Parrot
+            -   constructor: name, featherColor, wingsCound, legsCount, canFly, canSwim, canTalk
+            -   methods: introduce, voice, repeatTwice
+        -   Penguin
+            -   constructor: name, featherColor, wingsCound, legsCount, canFly, canSwim, canTalk
+            -   methods: introduce, voice, canYouFly
+    -   Fish
+        -   GoldenFish
+            -   constructor: name, color=golden, legsCount, canFly, canSwim, canTalk
+            -   methods: introduce, voice, grantAWish
+        -   Shark
+            -   constructor: name, color, legsCount, canFly, canSwim, canTalk
+            -   methods: introduce, voice, isHungry

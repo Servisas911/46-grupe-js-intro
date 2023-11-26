@@ -1,0 +1,41 @@
+{
+    "name": "js-intro",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "map": "nodemon ./method/map.js",
+        "tekstas": "nodemon ./uzd/tekstas.js",
+        "skaiciai": "nodemon ./uzd/skaiciai.js",
+        "spread": "nodemon ./method/spread.js",
+        "class-extends": "nodemon ./funkcijos/class-extends.js",
+        "class": "nodemon ./funkcijos/class.js",
+        "destruct": "nodemon ./kintamieji/destruct.js",
+        "uzd:pazymiai": "nodemon ./uzd/pazymiai.js",
+        "uzd:vardas": "nodemon ./uzd/vardas.js",
+        "uzd:tarpai": "nodemon ./uzd/tarpai.js",
+        "method:array-loops": "nodemon ./method/array-loops.js",
+        "method:array": "nodemon ./method/array.js",
+        "method:string": "nodemon ./method/string.js",
+        "method:number": "nodemon ./method/number.js",
+        "object-loops": "nodemon ./ciklas/object-loops.js",
+        "array-loops": "nodemon ./ciklas/array-loops.js",
+        "for": "nodemon ./ciklas/for.js",
+        "ternary": "nodemon ./palyginimas/ternary.js",
+        "if": "nodemon ./palyginimas/if.js",
+        "arrow": "nodemon ./funkcijos/arrow.js",
+        "function": "nodemon ./funkcijos/function.js",
+        "object": "nodemon ./kintamieji/object.js",
+        "array": "nodemon ./kintamieji/array.js",
+        "boolean": "nodemon ./kintamieji/boolean.js",
+        "string": "nodemon ./kintamieji/string.js",
+        "number": "nodemon ./kintamieji/number.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Rimantas (https://github.com/belauzas)",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
